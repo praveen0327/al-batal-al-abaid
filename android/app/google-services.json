@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689506937494",
+    "project_id": "abiad-9ae45",
+    "storage_bucket": "abiad-9ae45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689506937494:android:730ac2ba61a024c01bf0b7",
+        "android_client_info": {
+          "package_name": "com.example.batal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3uXSdhfQy-3naadHIOpxWQA3gPYQ_jQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
